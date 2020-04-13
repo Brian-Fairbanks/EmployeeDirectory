@@ -11,14 +11,25 @@ A cli tool using template Engines to create contact cards for each employee for 
 * [Questions](#questions)
 
 ## Installation
-
+fork or duplicate project.
+to set up all required dependencies, navigate to the project in terminal, and run:
+```
+npm install
+```
+    
 ## Usage
+running the terminal at the project location, run:
+```
+node index.js
+```
 
 ## License
 MIT
 ## Contributing
+(brian-fairbanks)[https://github.com/Brian-Fairbanks]
 
 ## Tests
+Tested with Jest.
 
 ## Questions
 <img src="https://avatars0.githubusercontent.com/u/59707181?v=4" height="75" width="75"> | brian.k.fairbanks@gmail.com
