@@ -20,7 +20,7 @@ npm install
 ## Usage
 running the terminal at the project location, run:
 ```
-node index.js
+node app.js
 ```
 
 ## License
