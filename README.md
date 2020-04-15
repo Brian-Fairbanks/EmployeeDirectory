@@ -27,7 +27,7 @@ node app.js
 ## License
 MIT
 ## Contributing
-(brian-fairbanks)[https://github.com/Brian-Fairbanks]
+[brian-fairbanks](https://github.com/Brian-Fairbanks)
 
 ## Tests
 Tested with Jest.
@@ -36,4 +36,4 @@ Tested with Jest.
 <img src="https://avatars0.githubusercontent.com/u/59707181?v=4" height="75" width="75"> | brian.k.fairbanks@gmail.com
 
 ## Demo
-(demo of app running)[./Assets/teamDemo.gif]
+![demo of app running](https://github.com/Brian-Fairbanks/EmployeeDirectory/blob/master/Assets/teamDemo.gif?raw=true)
