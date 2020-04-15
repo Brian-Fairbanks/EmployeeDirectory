@@ -143,7 +143,15 @@ async function run(){
     // `output` folder. You can use the variable `outputPath` above target this location.
     // Hint: you may need to check if the `output` folder exists and create it if it
     // does not.
-    fs.writeFile("team.html", html, function(err){
+    try{
+        if (!fs.existsSync(OUTPUT_DIR)) {
+            fs.mkdirSync(OUTPUT_DIR);
+        }
+    }
+    catch(err){
+        return console.log(err);
+    }
+    fs.writeFile(outputPath, html, function(err){
         if (err){return console.log(err)}
         console.log("Successfully wrote team.html.");
     })

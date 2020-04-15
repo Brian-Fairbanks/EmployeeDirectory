@@ -9,6 +9,7 @@ A cli tool using template Engines to create contact cards for each employee for 
 * [Credits](#contributing)
 * [Testing](#tests)
 * [Questions](#questions)
+* [Demo](#demo)
 
 ## Installation
 fork or duplicate project.
@@ -34,3 +35,5 @@ Tested with Jest.
 ## Questions
 <img src="https://avatars0.githubusercontent.com/u/59707181?v=4" height="75" width="75"> | brian.k.fairbanks@gmail.com
 
+## Demo
+(demo of app running)[./Assets/teamDemo.gif]
